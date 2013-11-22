@@ -1,0 +1,29 @@
+{
+  "name": "node-imageutils",
+  "version": "0.1.0",
+  "description": "Image utility functions for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shanonvl/node-imageutils"
+  },
+  "keywords": [
+    "nodejs",
+    "\"image",
+    "processing\"",
+    "image",
+    "utility"
+  ],
+  "author": "Shanon Levenherz <shanon@levenherz.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanonvl/node-imageutils/issues"
+  },
+  "homepage": "https://github.com/shanonvl/node-imageutils",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
