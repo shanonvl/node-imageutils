@@ -2,7 +2,7 @@
   "name": "node-imageutils",
   "version": "0.1.0",
   "description": "Image utility functions for node.",
-  "main": "index.js",
+  "main": "index.coffee",
   "scripts": {
     "test": "mocha test"
   },
@@ -12,8 +12,7 @@
   },
   "keywords": [
     "nodejs",
-    "\"image",
-    "processing\"",
+    "image processing",
     "image",
     "utility"
   ],
